@@ -2,4 +2,9 @@
     <string name="app_name">Airport Weather FS</string>
     <string name="tab_text_1">Tab 1</string>
     <string name="tab_text_2">Tab 2</string>
+    <string name="yr_picks_tab">Your Picks</string>
+    <string name="clear_tab">Clear</string>
+    <string name="windy_tab">Windy</string>
+    <string name="overcast_tab">Overcast</string>
+    <string name="rainy_tab">Rainy</string>
 </resources>
